@@ -103,7 +103,5 @@
 
 ### ✏️ [Figma](https://www.figma.com/file/AUkFFhRZln5S5PYp9zgvXz/Gokkan-UI?node-id=0%3A1&t=JhSvLc7xt2WzzCmV-1)
 
-### 🗃️ [ERD](https://www.erdcloud.com/d/R2FKkcDcANvsk5HQC)
-
 <br>
 
